@@ -19,21 +19,21 @@ function success(position) {
 
       // Map weather conditions to corresponding emojis
 const weatherEmojis = {
-    "Clear": "☀️",
-    "Clouds": "☁️",
-    "Drizzle": "🌧️",
-    "Rain": "🌧️",
-    "Thunderstorm": "⛈️",
-    "Snow": "❄️",
-    "Mist": "🌫️",
-    "Smoke": "🌫️",
+    "clear": "☀️",
+    "clouds": "☁️",
+    "drizzle": "🌧️",
+    "rain": "🌧️",
+    "thunderstorm": "⛈️",
+    "snow": "❄️",
+    "mist": "🌫️",
+    "smoke": "🌫️",
     "haze": "🌫️",
-    "Dust": "🌫️",
-    "Fog": "🌫️",
-    "Sand": "🌫️",
-    "Ash": "🌫️",
-    "Squall": "🌬️",
-    "Tornado": "🌪️",
+    "dust": "🌫️",
+    "fog": "🌫️",
+    "sand": "🌫️",
+    "ash": "🌫️",
+    "squall": "🌬️",
+    "tornado": "🌪️",
   }
   
   // Get the emoji corresponding to the weather condition
